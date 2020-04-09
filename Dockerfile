@@ -11,5 +11,5 @@ WORKDIR /forsaken-mail
 RUN npm install
 
 EXPOSE 25
-EXPOSE 3000
+EXPOSE 3030
 CMD npm start
